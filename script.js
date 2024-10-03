@@ -15,7 +15,7 @@ var jokes = [
 	'sana pergi gausah chattan atau sentuh sentuh aku lagi gamau aku sama kamu',
 	'es krim dulu baru aku ngga ngambek.',
 	'gamau ayang, akutu lagi sakit gigi.',
-	'aku punya temen... dia itu.. oh iya aku kan selalu sendiri😄.'
+	'aku punya temen... dia itu.. oh iya belum bayar utang.'
 ];
 
 // Activate felix and set timeout for awaiting a command.
