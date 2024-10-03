@@ -151,9 +151,9 @@
 }
 .command-list > li:hover > i { color: #5cf; }
 .command-list > li:nth-child(1) { transform: translateX(100px) translateY(45px); }
-.command-list > li:nth-child(1):hover ~ .hey-felix::after { content: "Mitha sayang, cuaca di rumah aku sekarang gimana ya😊"; }
+.command-list > li:nth-child(1):hover ~ .hey-felix::after { content: "Felix sayang, cuaca di rumah aku sekarang gimana ya😊"; }
 .command-list > li:nth-child(2) { transform: translateX(-15px) translateY(-15px); }
-.command-list > li:nth-child(2):hover ~ .hey-felix::after { content: "Mitha sayang, kasih tau dong sekarang udah jam berapa😋"; }
+.command-list > li:nth-child(2):hover ~ .hey-felix::after { content: "Felix sayang, kasih tau dong sekarang udah jam berapa😋"; }
 .command-list > li:nth-child(3) { transform: translateX(-35px) translateY(-55px); }
 .command-list > li:nth-child(3):hover ~ .hey-felix::after { content: "Aduh sayang, sekarang tanggal berapa si, aku lupaa😭"; }
 .command-list > li:nth-child(4) { transform: translateX(35px) translateY(-55px); }
